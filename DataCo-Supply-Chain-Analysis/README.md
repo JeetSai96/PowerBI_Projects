@@ -65,7 +65,7 @@ The dashboard transforms raw data into interactive visual reports to help explor
 
 ## How to Explore the Project
 
-1. Download the Power BI `.pbix` and `.xlsx` file from this repository.
+1. Download the Power BI `.pbix` and `.csv` file from this repository.
 2. Open it using Power BI Desktop.
 3. Use the slicers to filter results by year, market, customer segment, region, category or shipping mode, where available.
 4. Explore each report page to analyze business performance from different perspectives.
